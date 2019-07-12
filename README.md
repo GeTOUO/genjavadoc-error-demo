@@ -1,0 +1,2 @@
+# genjavadoc-error-demo
+demo
